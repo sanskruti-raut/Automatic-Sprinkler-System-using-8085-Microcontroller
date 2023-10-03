@@ -113,3 +113,5 @@ int d;
 d=
 return d;
 }
+
+/* sample */
